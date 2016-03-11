@@ -12,24 +12,15 @@
    width="20.884445mm"
    height="28.786667mm"
    viewBox="0 0 74.000003 102"
-   id="svg3788"
+   id="svg7015"
    version="1.1"
    inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/kerb/dev/idea/ambit-flaticon/export/smi.png"
+   inkscape:export-xdpi="46.220001"
+   inkscape:export-ydpi="46.220001"
    sodipodi:docname="smi.svg">
   <defs
-     id="defs3790">
-    <linearGradient
-       id="linearGradient3329">
-      <stop
-         style="stop-color:#c3c3c3;stop-opacity:1;"
-         offset="0"
-         id="stop3331" />
-      <stop
-         style="stop-color:#191919;stop-opacity:1;"
-         offset="1"
-         id="stop3333" />
-    </linearGradient>
-  </defs>
+     id="defs7017" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -37,23 +28,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.3431373"
-     inkscape:cx="13.032043"
-     inkscape:cy="50.727632"
+     inkscape:zoom="7.1470588"
+     inkscape:cx="13.353911"
+     inkscape:cy="51"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="987"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata3793">
+     id="metadata7020">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -68,62 +59,36 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-335.04724,-475.1811)">
+     transform="translate(-334.42857,-441.3622)">
     <g
-       transform="translate(600.05979,314.15418)"
-       id="g4774"
-       inkscape:export-filename="/home/kerb/dev/icons/ambit-flaticon/smi.png"
-       inkscape:export-xdpi="46.220001"
-       inkscape:export-ydpi="46.220001">
-      <g
-         transform="translate(-291.01255,149.02092)"
-         id="g4115"
-         inkscape:export-filename="/home/kerb/dev/icons/text3092.png"
-         inkscape:export-xdpi="46.220001"
-         inkscape:export-ydpi="46.220001">
-        <path
-           sodipodi:nodetypes="ccccccccssssssssccccssccc"
-           d="M 99.98,36.45 C 99.974,35.982 99.826,35.52 99.505,35.155 L 79.838,12.69 C 79.834,12.684 79.828,12.682 79.822,12.676 79.705,12.545 79.57,12.437 79.426,12.342 79.383,12.314 79.34,12.289 79.295,12.264 79.168,12.196 79.037,12.14 78.9,12.099 78.863,12.088 78.83,12.073 78.793,12.063 78.643,12.028 78.49,12.006 78.334,12.006 l -48.334,0 c -2.205,0 -4,1.795 -4,4 l 0,94 c 0,2.206 1.795,4 4,4 l 66,0 c 2.207,0 4,-1.794 4,-4 l 0,-73.332 c 0,-0.075 -0.012,-0.15 -0.02,-0.224 z M 30,79.924 l 0,-63.917 46.334,0 0,20.466 c 0,1.104 0.895,2 2,2 l 17.666,0 0.002,41.451 z"
-           id="path4117"
-           inkscape:connector-curvature="0" />
-      </g>
+       transform="translate(600.4813,164.12197)"
+       id="g6443">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6205"
+         d="m -262.05273,277.24023 c -2.205,0 -4,1.795 -4,4 l 0,94 c 0,2.206 1.795,4 4,4 l 66,0 c 2.207,0 4,-1.794 4,-4 l 0,-73.33203 c 0,-0.075 -0.0135,-0.14865 -0.0215,-0.22265 -0.006,-0.468 -0.15361,-0.92992 -0.47461,-1.29493 l -19.66601,-22.46679 c -0.004,-0.006 -0.01,-0.008 -0.0156,-0.0137 -0.117,-0.131 -0.25248,-0.23899 -0.39648,-0.33399 -0.043,-0.028 -0.0859,-0.0531 -0.13086,-0.0781 -0.127,-0.068 -0.25753,-0.12307 -0.39453,-0.16407 -0.037,-0.011 -0.0704,-0.0271 -0.10743,-0.0371 -0.15,-0.035 -0.30298,-0.0566 -0.45898,-0.0566 l -48.33398,0 z m 0,4.00196 46.33398,0 0,20.46484 c 0,1.104 0.895,2 2,2 l 17.66602,0 0.002,41.45117 -66.00195,0 0,-63.91601 z m 11.69531,68.74023 c 1.25046,0 2.53579,0.1 3.85742,0.30274 1.32163,0.19211 2.68844,0.48595 4.10156,0.88086 l 0,5.06054 c -1.25046,-0.58702 -2.47069,-1.03123 -3.66015,-1.33008 -1.18947,-0.29884 -2.31184,-0.44726 -3.36914,-0.44726 -1.40296,0 -2.44035,0.20184 -3.11133,0.60742 -0.67098,0.40558 -1.00586,1.03482 -1.00586,1.88867 0,0.64039 0.2226,1.14297 0.66992,1.50586 0.45749,0.35222 1.28124,0.65596 2.4707,0.91211 l 2.50196,0.5293 c 2.53142,0.53366 4.33097,1.34493 5.39843,2.43359 1.06747,1.08866 1.59961,2.63603 1.59961,4.64258 0,2.63627 -0.74578,4.59917 -2.24023,5.89063 -1.48429,1.28077 -3.75634,1.92187 -6.81641,1.92187 -1.44362,0 -2.89387,-0.14347 -4.34765,-0.43164 -1.45379,-0.28818 -2.90754,-0.71557 -4.36133,-1.28125 l 0,-5.20313 c 1.45379,0.81116 2.85686,1.4236 4.20898,1.83985 1.36229,0.40558 2.67492,0.60937 3.93555,0.60937 1.28096,0 2.26221,-0.2236 2.94336,-0.67187 0.68114,-0.44827 1.02148,-1.08937 1.02148,-1.92188 0,-0.74712 -0.23352,-1.32293 -0.70117,-1.72851 -0.45748,-0.40558 -1.37909,-0.76965 -2.76172,-1.08985 l -2.27148,-0.52734 c -2.27726,-0.51231 -3.94465,-1.32854 -5.00196,-2.44922 -1.04713,-1.12068 -1.57031,-2.63143 -1.57031,-4.53125 0,-2.38011 0.73136,-4.21141 2.19531,-5.49219 1.46396,-1.28077 3.56954,-1.91992 6.31446,-1.91992 z m 13.55078,0.43164 7.4707,0 5.18555,12.79102 5.21484,-12.79102 7.45703,0 0,23.90235 -5.55078,0 0,-17.48243 -5.24609,12.88868 -3.7207,0 -5.2461,-12.88868 0,17.48243 -5.56445,0 0,-23.90235 z m 30.03516,0 5.87109,0 0,23.90235 -5.87109,0 0,-23.90235 z" />
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:35.96525955px;line-height:125%;font-family:Sans;letter-spacing:-1.10000002px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-         x="-234.13432"
-         y="251.90053"
-         id="text4119"
-         sodipodi:linespacing="125%"
-         transform="scale(0.97596976,1.0246219)"
-         inkscape:export-xdpi="46.220001"
-         inkscape:export-ydpi="46.220001"><tspan
-           sodipodi:role="line"
-           id="tspan4121"
-           x="-234.68433"
-           y="251.90053"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;letter-spacing:-1.10000002px;text-anchor:middle">SMI</tspan></text>
-      <text
-         xml:space="preserve"
+         sodipodi:linespacing="140%"
+         id="text6211"
+         y="297.74521"
+         x="-258.31265"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:139.99999762%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-257.27194"
-         y="181.53139"
-         id="text4123"
-         sodipodi:linespacing="140%"><tspan
-           sodipodi:role="line"
-           x="-257.27194"
-           y="181.53139"
+         xml:space="preserve"><tspan
+           id="tspan6213"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:139.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'"
-           id="tspan4125">[C@H]</tspan><tspan
-           sodipodi:role="line"
-           x="-257.27194"
-           y="201.13139"
+           y="297.74521"
+           x="-258.31265"
+           sodipodi:role="line">[C@H]</tspan><tspan
+           id="tspan6215"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:139.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0.98999995px"
-           id="tspan4127">(C(=O)N</tspan><tspan
-           sodipodi:role="line"
-           x="-257.27194"
-           y="220.73138"
+           y="317.34521"
+           x="-258.31265"
+           sodipodi:role="line">(C(=O)N</tspan><tspan
+           id="tspan6217"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:139.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';letter-spacing:1.11000001px"
-           id="tspan4129">[C@@H]</tspan></text>
+           y="336.94522"
+           x="-258.31265"
+           sodipodi:role="line">[C@@H]</tspan></text>
     </g>
   </g>
 </svg>
